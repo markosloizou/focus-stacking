@@ -9,7 +9,7 @@ plane, and the other is moving the camera so that the lens is at different dista
 So far a number of sharpness measures have been implemented. Each assigning a sharpness value at each pixel. 
 
 ## Current Work
-* Refactor the GUI to an MVC pattern
+* Refactor the GUI to an MVC pattern and investigate wheter or not to move from wWidgets to QT 
 
 ## Future Work
 * Implement a DMAP focus stack
